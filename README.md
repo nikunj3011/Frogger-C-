@@ -1,2 +1,2 @@
 # Frogger-C-
-Frogger Game made using SFML Library in C++
+Frogger Game (Final Project) made using SFML Library in C++
